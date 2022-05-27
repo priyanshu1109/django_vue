@@ -32,5 +32,5 @@ to start react server
 
 In browser run
 ```bash
-localhost:8000
+localhost:8080
 ```
